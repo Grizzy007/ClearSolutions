@@ -8,4 +8,5 @@ public class ClearSolutionsTestApplication {
     public static void main(String[] args) {
         SpringApplication.run(ClearSolutionsTestApplication.class, args);
     }
+
 }
