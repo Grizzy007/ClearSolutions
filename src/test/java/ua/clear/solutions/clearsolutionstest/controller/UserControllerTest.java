@@ -27,7 +27,6 @@ class UserControllerTest {
     @Autowired
     private MockMvc mockMvc;
 
-
     @Test
     @Order(5)
     void testGetUsers() throws Exception {
