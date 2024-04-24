@@ -1,0 +1,1 @@
+# Clear Solutions test task
